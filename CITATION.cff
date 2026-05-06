@@ -8,12 +8,12 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Chris
-    family-names: Wild
-    email: c.wild@sheffield.ac.uk
-    affiliation: University of Sheffield
-    orcid: 'https://orcid.org/0009-0009-1195-1497'
-url: 'https://github.com/FAIR2-for-research-software/FAIR4RS-Packaging'
+  - given-names: Stuart
+    family-names: Lacy
+    email: stuart.lacy@york.ac.uk
+    affiliation: York
+    orcid: 'https://orcid.org/0000-0002-8570-7528'
+url: 'https://github.com/ResearchCodingClub/FAIR4RS-Packaging'
 abstract: >-
   A Carpentry based, intermediate level course on packaging software
 keywords:

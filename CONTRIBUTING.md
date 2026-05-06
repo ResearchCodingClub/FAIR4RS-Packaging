@@ -46,9 +46,9 @@ use [GitHub flow][github-flow] to manage changes:
 
 NB: The published copy of the lesson is usually in the `main` branch.
 
-[repo]: https://github.com/FAIR2-for-research-software/FAIR4RS-Packaging
-[repo-issues]: https://github.com/FAIR2-for-research-software/FAIR4RS-Packaging/issues
-[contact]: mailto:c.wild@sheffield.ac.uk
+[repo]: https://github.com/ResearchCodingClub/FAIR4RS-Packaging
+[repo-issues]: https://github.com/ResearchCodingClub/FAIR4RS-Packaging/issues
+[contact]: mailto:stuart.lacy@york.ac.uk
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
