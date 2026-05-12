@@ -3,15 +3,22 @@ title: Setup
 ---
 ## Summary
 
-Packaging your software is one of the most important steps in a software project to make it both findable and accessible. This course will provide you with an understanding of why and when packaging is useful, what different standards exist to package Python projects and take you through each step of the packaging process.
+Packaging your software is one of the most important steps in a software project to make it both findable and accessible.
+This course will provide you with an understanding of why and when packaging is useful, how to structure packages, and take you through each step of the packaging process.
+Examples will be provided in both Python and R.
 
 ## Software Setup
 
-### Python 3
-
-This session will be using Python 3 as the language for examples and demonstrations. 
+### Python
 
 Python can be downloaded from the [official website](https://www.python.org/downloads/), versions 3.11 or newer are recommended. 
+`uv` will be used to manage dependencies and create the package skeleton as it consolidates a lot of functionality that is distributed amongst multiple first party packages.
+Installation instructions are available on the [website](https://docs.astral.sh/uv/getting-started/installation/).
+
+### R
+
+RStudio can be installed from [Posit's website](https://posit.co/download/rstudio-desktop), which also has links to install R.
+Some additional tools will be needed for Windows and Mac users to build packages: Windows users will need to install [Rtools for Windows users](https://cran.r-project.org/bin/windows/Rtools/), while Mac users will need to setup [Xcode](http://itunes.apple.com/us/app/xcode/id497799835?mt=12) then run installed the Command Line Tools via Preferences->Downloads.
 
 ### Terminal
 
