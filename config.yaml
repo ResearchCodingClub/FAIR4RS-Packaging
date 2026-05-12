@@ -64,23 +64,22 @@ contact: 'rse@sheffield.ac.uk'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- introduction.md
-- package-file-history.Rmd
-- accessing-packages.md
-- creating-packages.md
-- versioning.md
-- releasing.md
-- publishing-packages.md
+episodes:
+- 01_introduction.md
+- 02_accessing_packages.md
+- 03_creating_python_packages.md
+- 04_creating_r_packages.md
+- 05_versioning.md
+- 06_publishing.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
