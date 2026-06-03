@@ -1,7 +1,7 @@
 ---
 title: 'Creating R Packages'
-teaching: 10
-exercises: 0
+teaching: 20
+exercises: 5
 ---
 
 

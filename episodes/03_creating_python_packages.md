@@ -1,7 +1,7 @@
 ---
 title: 'Creating Python Packages'
-teaching: 10
-exercises: 2
+teaching: 20
+exercises: 4
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
