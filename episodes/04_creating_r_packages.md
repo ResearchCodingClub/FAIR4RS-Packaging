@@ -316,8 +316,15 @@ But `devtools::check()` should show a warning - despite the source code stating 
 
 The `DESCRIPTION` file needs to be updated to declare `dplyr` as a package.
 Unlike Python's `pyproject.toml`, which `uv` initiates with an empty dependency list, there is no obvious placeholder for where to do this.
-Either research it, or have a look at the available `usethis` functions as one of them will come in handy here (type `usethis::` then press TAB in the R console to view all the functions in a package.)
 
+
+:::::::::::::::::::::::: hint
+
+## Hint
+
+Either refer to the [R packaging documentation](https://r-pkgs.org/description.html), or have a look at the available `usethis` functions as one of them will come in handy here (type `usethis::` then press TAB in the R console to view all the functions in a package.)
+
+:::::::::::::::::::::::::::::::::
 
 ::: solution
 
