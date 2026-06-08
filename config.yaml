@@ -33,13 +33,13 @@ life_cycle: 'alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/christopher-wild/FAIR4RS-Packaging'
+source: 'https://github.com/ResearchCodingClub/FAIR4RS-Packaging'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'rse@sheffield.ac.uk'
+contact: 'research-coding-club-group@york.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -87,5 +87,5 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-varnish: RSE-Sheffield/uos-varnish@main
-url: https://fair2-for-research-software.github.io/FAIR4RS-Packaging/
+varnish: ResearchCodingClub/uoy-varnish@main
+url: https://researchcodingclub.github.io/FAIR4RS-Packaging/
