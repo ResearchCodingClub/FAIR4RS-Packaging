@@ -31,7 +31,13 @@
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/SECURITY.html</loc>
   </url>
   <url>
+    <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/aio.html</loc>
+  </url>
+  <url>
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/images.html</loc>
   </url>
   <url>
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/index.html</loc>
@@ -67,16 +73,34 @@
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/SECURITY.html</loc>
   </url>
   <url>
+    <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/citation.html</loc>
   </url>
   <url>
+    <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/key-points.html</loc>
   </url>
   <url>
     <loc>https://researchcodingclub.github.io/FAIR4RS-Packaging/profiles.html</loc>
